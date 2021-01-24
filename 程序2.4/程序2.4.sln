@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "程序2.4", "程序2.4\程序2.4.vcxproj", "{C29FBD13-91E4-4C4A-B2BE-0A22CF0BC709}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C29FBD13-91E4-4C4A-B2BE-0A22CF0BC709}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C29FBD13-91E4-4C4A-B2BE-0A22CF0BC709}.Debug|Win32.Build.0 = Debug|Win32
+		{C29FBD13-91E4-4C4A-B2BE-0A22CF0BC709}.Release|Win32.ActiveCfg = Release|Win32
+		{C29FBD13-91E4-4C4A-B2BE-0A22CF0BC709}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
